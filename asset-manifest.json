@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Alarm/static/css/main.bba6e5f3.css",
+    "main.js": "/Alarm/static/js/main.79cbbdb7.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/Alarm/static/js/787.c4e7f8f9.chunk.js",
+    "index.html": "/Alarm/index.html",
+    "main.bba6e5f3.css.map": "/Alarm/static/css/main.bba6e5f3.css.map",
+    "main.79cbbdb7.js.map": "/Alarm/static/js/main.79cbbdb7.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/Alarm/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bba6e5f3.css",
+    "static/js/main.79cbbdb7.js"
+  ]
+}
